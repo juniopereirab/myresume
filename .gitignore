@@ -1,0 +1,6 @@
+*.gem
+.bundle
+.sass-cache
+*.code-workspace
+vendor
+*.lock

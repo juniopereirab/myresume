@@ -1,8 +1,24 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Decipherer
+  link: https://gitlab.com/oo-2018.1/EP1
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    This is a project from "Object Oriented" Subject from UnB. It was made in <mark>C++</mark>.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    I make this project to learn more about Object Oriented paradigms, and it was great to also learn more about the language and logical programming.
+
+- layout: top-middle
+  name: Ruby on Rails Website
+  link: https://gitlab.com/xRegis/EP3-RAILS
+  quote: >
+    This is a project from "Object Oriented" Subject from UnB. It was made in Ruby using <mark>Ruby on Rails</mark> framework.
+  description: |
+    Me and my friend made this project to learn more about Ruby and the framework Rails. This is a website which everyone can create events and share them.
+
+- layout: top-middle
+  name: Integra Vendas
+  link: https://github.com/fga-eps-mds/2018.2-Integra-Vendas
+  github: fga-eps-mds/2018.2-Integra-Vendas
+  quote: >
+    This project was a great project that I participate in a college subject. I used to work with other 9 people and in that time, I made my teamwork skills really better
+  description: |
+    For this project development. 10 people used to develop and write all the documentation about an especific project. We gathered every week to do all the <mark>Scrum</mark> ritual. Following all the stages to get this project done and also learning about teamwork, pair programming, agile methodology and more.
